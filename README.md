@@ -26,4 +26,6 @@ This project is open for contributions. If you have suggestions for improvements
 
 License
 This project is for educational purposes only and is not intended for commercial use. The original template design is the property of its respective owner.
+Link of this project
+https://e-commerce-template-1.netlify.app/
 
